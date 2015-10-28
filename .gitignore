@@ -1,0 +1,8 @@
+# Batch file
+*.bat
+
+# Python File
+*.py
+
+# Flash
+*.swf
